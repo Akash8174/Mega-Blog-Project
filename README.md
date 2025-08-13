@@ -16,10 +16,11 @@ Users can create, read, update, and delete blog posts with secure authentication
 
 ## 📦 Installation
 1. **Clone the repository**
+   ```bash
    git clone https://github.com/Akash8174/Mega-Blog-Project.git
    cd Mega-Blog-Project
 
-2. **Install dependencies**
+3. **Install dependencies**
    npm install
 
 4. **Configure environment variables**
