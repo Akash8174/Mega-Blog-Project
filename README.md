@@ -39,7 +39,7 @@ Users can create, read, update, and delete blog posts with secure authentication
 2. **Install dependencies**
    ```bash
    npm install
-3.**Configure environment variables**
+3. **Configure environment variables**
 Create a .env file in the root folder and add:
    ```bash
    REACT_APP_APPWRITE_ENDPOINT=your_appwrite_endpoint
