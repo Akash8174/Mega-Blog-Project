@@ -36,15 +36,19 @@ Users can create, read, update, and delete blog posts with secure authentication
    ```bash
    git clone https://github.com/Akash8174/Mega-Blog-Project.git
    cd Mega-Blog-Project
-   
+2. **Install dependencies**
+   ```bash
    npm install
-   
+3.**Configure environment variables**
+Create a .env file in the root folder and add:
+   ```bash
    REACT_APP_APPWRITE_ENDPOINT=your_appwrite_endpoint
    REACT_APP_APPWRITE_PROJECT_ID=your_project_id
    REACT_APP_APPWRITE_DATABASE_ID=your_database_id
    REACT_APP_APPWRITE_COLLECTION_ID=your_collection_id
    REACT_APP_APPWRITE_BUCKET_ID=your_bucket_id
-   
+4. **Run locally**
+   ```bash
    npm start
 
 
